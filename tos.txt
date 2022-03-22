@@ -2,37 +2,32 @@ Terms of Service
  Link to Chat
 1. ACCEPTANCE OF TERMS
 Welcome to Norroth. Norroth provides its service to you, subject to the following Terms of Service ("TOS"). These Terms of Service are subject to change at anytime. It is the responsibility of the player to be aware of and in compliance with the Terms of Service at all times. Failure to do so may result in the immediate deletion of your account without refund of your payment. Major changes to the Terms of Service will be announced on the main page, which is presented at logon.
-
 2. DESCRIPTION OF SERVICE
 Norroth currently provides users with access to online entertainment in the form of a game in which users interact with each other (the "Service"). You understand and agree that the Service may include advertisements and that these advertisements might be necessary for Norroth to provide the Service. You also understand and agree that the service may include certain communications from Norroth, such as service announcements, administrative messages and the Norroth Newsletter, and that these communications are considered part of your Norroth service and you will not be able to opt out of receiving them.
 
 Unless explicitly stated otherwise, any new feature that augments or enhances the current Service, including the release of new Norroth properties, shall be subject to the TOS. You understand and agree that the Service is provided "AS-IS" and that Norroth assumes no responsibility for the timeliness, deletion, mis-delivery or failure to store any user communications or personalization settings.
 
 You are responsible for obtaining access to the Service and that access may involve third party fees (such as Internet service provider or airtime charges). You are responsible for those fees, including those fees associated with the display or delivery of advertisements. In addition, you must provide and are responsible for all equipment necessary to access the Service.
-
 3. YOUR REGISTRATION OBLIGATIONS
 In consideration of your use of the Service, you agree to: (a) provide true, accurate, current and complete information about yourself as prompted by the Service's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete.
 
 You will provide an email address which we can contact you for as long as your account remains active.
 
 If you provide any information that is untrue, inaccurate, not current or incomplete, or Norroth has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Norroth has the right to suspend or terminate your account and refuse any and all current or future use of the Service (or any portion thereof).
-
 4. Norroth'S PRIVACY POLICY
 Norroth collects personal information when you register with Norroth, when you use Norroth products or services, when you visit Norroth pages and when you enter promotions or sweepstakes.
 
 When you register we ask for information such as your name, email address, birth date, address, gender, zip code and personal interests. Once you register with Norroth and sign in to our services, you are not anonymous to us.
 
-Norroth automatically receives and records information on our server logs from your browser, including your IP address, Norroth cookie information, and the page you request.
+Norroth automatically receives and records information from your browser, including your IP address, cookie information, and the page you request including the actions executed on those pages.
 
 Norroth uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
 Norroth does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Norroth's terms of use, or as otherwise required by law;We transfer information about you if Norroth is acquired by or merged with another company. In this event, Norroth will notify you before information about you are transferred and becomes subject to a different privacy policy.
 
-Norroth may set and access Norroth cookies on your computer.
-
+Norroth may set and access cookies on your computer.
 5. MEMBER ACCOUNT, PASSWORD AND SECURITY
 You will receive a password and account designation upon completing the Service's registration process. You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account. You agree to (a) immediately notify Norroth of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session. Norroth cannot and will not be liable for any loss or damage arising from your failure to comply with this.
-
 6. MEMBER CONDUCT
 You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not Norroth, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available via the Service. Norroth does not control the Content posted via the Service and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using the Service, you may be exposed to Content that is offensive, indecent or objectionable. Under no circumstances will Norroth be liable in any way for any Content, including, but not limited to, for any errors or omissions in any Content, or for any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Service.
 
@@ -49,67 +44,49 @@ You agree to not use the Service to:1. Upload, post, email, transmit or otherwis
 You acknowledge that Norroth does not pre-screen Content, but that Norroth and its designees shall have the right (but not the obligation) in their sole discretion to refuse or move any Content that is available via the Service. Without limiting the foregoing, Norroth and its designees shall have the right to remove any Content that violates the TOS or is otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any Content, including any reliance on the accuracy, completeness, or usefulness of such Content. In this regard, you acknowledge that you may not rely on any Content created by Norroth or submitted to Norroth, including without limitation information in Norroth's forums and in all other parts of the Service.
 
 You understand that the technical processing and transmission of the Service, including your Content, may involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
-
 7. SPECIAL ADMONITIONS FOR INTERNATIONAL USE
 Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. Specifically, you agree to comply with all applicable laws regarding the transmission of technical data exported from the country in which you reside.
-
 8. CONTENT SUBMITTED OR MADE AVAILABLE FOR INCLUSION ON THE SERVICE
 Norroth does not claim ownership of Content you submit or make available for inclusion on the Service. However to the extent that portion of this game provides users an opportunity to post and/or exchange information. Although we periodically monitor exchanged and posted information, in no event does Norroth assume or have any responsibility or liability for any postings/messages for any claims, damages or losses resulting from their use and/or appearance on or in conjunction with this game or elsewhere.
 
 Users remain solely responsible for the content of their messages and postings. However, Norroth reserves the right to edit, delete, or refuse to post any messages that violates these Terms of Service or common sense, as well as revoke the privileges of any user who does not comply with these Terms of Service
-
 9. INDEMNITY
 You agree to indemnify and hold Norroth, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of Content you submit, post, transmit or make available through the Service, your use of the Service, your connection to the Service, your violation of the TOS, or your violation of any rights of another.
-
 10. NO RESALE OF SERVICE
 You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service. It's prohibited to sell accounts.
-
 11. GENERAL PRACTICES REGARDING USE AND STORAGE
 You acknowledge that Norroth may establish general practices and limits concerning use of the Service, including without limitation the maximum number of days that messages, message board postings or other uploaded Content will be retained by the Service, the maximum number of messages that may be sent from or received by an account on the Service, the maximum size of any message that may be sent from or received by an account on the Service, the maximum disk space that will be allotted on Norroth's servers on your behalf, and the maximum number of times (and the maximum duration for which) you may access the Service in a given period of time. You agree that Norroth has no responsibility or liability for the deletion or failure to store any messages and other communications or other Content maintained or transmitted by the Service. You acknowledge that Norroth reserves the right to log off accounts that are inactive for an extended period of time. You further acknowledge that Norroth reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.
-
 12. MODIFICATIONS TO SERVICE
 Norroth reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that Norroth shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
-
 13. TERMINATION
 You agree that Norroth may, under certain circumstances and without prior notice, immediately terminate your Norroth account and access to the Service. Cause for such termination shall include, but not be limited to, (a) breaches or violations of the TOS or other incorporated agreements or guidelines, (b) requests by law enforcement or other government agencies, (c) a request by you (self-initiated account deletions), (d) discontinuance or material modification to the Service (or any part thereof), (e) unexpected technical issues or problems, and (f) extended periods of inactivity. Termination of your Norroth account includes (a) removal of access to all offerings within the Service, (b) deletion of your password and all related information, files and content associated with or inside your account (or any part thereof), and (c) barring further use of the Service. Further, you agree that all terminations for cause shall be made in Norroth's sole discretion and that Norroth shall not be liable to you or any third-party for any termination of your account, any associated email address, or access to the Service.
-
 14. LINKS
 The Service may provide, or third parties may provide, links to other World Wide Web sites or resources. Because Norroth has no control over such sites and resources, you acknowledge and agree that Norroth is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that Norroth shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.
-
 15. Norroth'S PROPRIETARY RIGHTS
 You acknowledge and agree that the Service and any necessary software used in connection with the Service ("Software") contain proprietary and confidential information that is protected by applicable intellectual property and other laws. You further acknowledge and agree that Content contained in sponsor advertisements or information presented to you through the Service or advertisers is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Except as expressly authorized by Norroth or advertisers, you agree not to modify, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Software, in whole or in part.
 
 Norroth grants you a personal, non-transferable and non-exclusive right and license to use the object code of its Software on a single computer; provided that you do not (and do not allow any third party to) copy, modify, create a derivative work of, reverse engineer, reverse assemble or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the Software. You agree not to modify the Software in any manner or form, or to use modified versions of the Software, including (without limitation) for the purpose of obtaining unauthorized access to the Service. You agree not to access the Service by any means other than through the interface that is provided by Norroth for use in accessing the Service.
-
 16. DISCLAIMER OF WARRANTIES
 THIS SITE AND ALL MATERIALS CONTAINED ON IT ARE DISTRIBUTED AND TRANSMITTED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, Norroth DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Norroth DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SITE OR MATERIALS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT THIS SITE OR THE SERVERS THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. Norroth DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE MATERIALS IN THIS SITE WITH REGARD TO THEIR CORRECTNESS, ACCURACY, RELIABILITY, OR OTHERWISE. THE ENTIRE RISK AS TO THE QUALITY, ACCURACY, ADEQUACY, COMPLETENESS, CORRECTNESS AND VALIDITY OF ANY MATERIAL RESTS WITH YOU. YOU (I.E., NOT Norroth) ASSUME THE COMPLETE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
 
 TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, Norroth, ITS AFFILIATES, AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, REPRESENTATIVES, AND THIRD PARTY PROVIDERS TO THE SITE WILL NOT BE LIABLE FOR DAMAGES OF ANY KIND INCLUDING, WITHOUT LIMITATION, COMPENSATORY, CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL OR SIMILAR DAMAGES, THAT MAY RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE MATERIALS CONTAINED ON THIS SITE, WHETHER THE MATERIAL IS PROVIDED OR OTHERWISE SUPPLIED BY Norroth OR ANY THIRD PARTY.
 
 NOTWITHSTANDING THE FOREGOING, IN NO EVENT Norroth HAVE ANY LIABILITY TO YOU FOR ANY CLAIMS, DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT, TORT OR OTHERWISE) EXCEEDING THE AMOUNT PAID BY YOU, IF ANY, FOR ACCESSING THIS SITE. USE OF THE SITE CONSTITUTES AGREEMENT WITH THE CURRENT TERMS AND CONDITIONS.
-
 17. CONNECTIVITY
 Norroth will do anything in her power to keep the site up and running. We can not guarantee the connection. If the connection failed we will not refund any payments.
-
 18. TERMINATING YOUR ACCOUNT
 Individuals who no longer wish to play Norroth may terminate their accounts by not logging into their accounts any more.
-
 19. OPERATIONAL INTERFERENCE
 Users agree not to, through use of software or other means, interfere with game operation and page content. Users agree to follow Administrator requests and instructions.
-
 20. FORCE MAJEUERE
 Norroth shall not be held responsible for any failure to perform its obligations under this Terms of Service (Connectivity, loss of account information) if such failure is caused by events or conditions beyond Norroth control.
-
 21. ADDENDUM
 Other sections of the game may have its own rules (such as the chat rooms.) These rules are an addition to the Terms of Service, not a replacement. Violation of these rules is considered to be a violation of the Terms of Service and will be dealt with accordingly. Please familiarize yourself with all game rules before playing. Failure to be familiar with the game rules is not an excuse for breaking them and will not be accepted as a defence of your account.
-
 22. PLAYER STAFF INTERACTION
 Both players and staff are expected to coexist in a polite and respectful environment. This applies to professional interaction only, as there are instances when the staff member is acting in the capacity of a player, and not an administrator. This is not to say a staff member may become abusive and claim they were acting in a player capacity, but it does mean a staff member need not be stoic at all times. They're volunteers, and need to relax/get into arguments too. This should never be the case in professional settings (i.e. Customer Service requests).
-
 23. COMMUNITY GUIDELINES
 Since people of diverse ages, backgrounds, religions, and nationalities play the Service, it is expected that the players will refrain from speech that is deliberately inflammatory, excessively vulgar, and/or personally derogatory. In other words: No flaming and keep the "trash talk" to a minimum. This applies to the general chat (public and private) as well as the notes (public and private). Pushing excessive quantities of chat (public or private) into the game, whether directed at the entire game or at a particular player is considered spamming.
 
 The public chat and forums are not the exclusive domain of any one language. In addition, using the Service to promote the distribution of or access to warez, MP3s, or other illegal software or products is strictly forbidden and will not be tolerated. Using the Service to distribute pornography or access to pornography of any kind is strictly forbidden and will not be tolerated.
-
 24. RETURN POLICY
 Norroth Donations and/or Norroth Coins are non-refundable. In case of any trouble with donations/payments, please contact info@norroth.com. If you try and settle a Chargeback, your account will be put on Hold immediately without further notice. If the Payment Service Provider decides to undo the payment and you are not able to return the corresponding Goods and Norroth Coins, we will consider it as stealing and your account will be banned permanently.
